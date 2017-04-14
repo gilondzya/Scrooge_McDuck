@@ -46,23 +46,3 @@ int Enter1 ()
 }
 
 
-int main()
-{
-  setlocale(LC_ALL,"Russian");   
-  int num;  
-  cout<<"If you want to take a credit push '1', if you want to take a hypothec push '2', if you want to make deposit push '3' \n";
-  num = Enter1(); 
-  cout<<"\n result: "<<num<<endl;
-  
-  long long double sum;
-  cout<<"Enter the sum of your deposit \n";
-  sum = Enter();
-  cout<<"\n result: "<<sum<<endl;
-  
-  
-  
-    
-    
-    system("PAUSE");
-    return EXIT_SUCCESS;
-}
