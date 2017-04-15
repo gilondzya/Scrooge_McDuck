@@ -13,6 +13,7 @@ void Dif_kredit_po_sum(long long sum,double stavka,int months)
 	for (int i = 1; i <= months; i++)
 	{
 		proc = ((sum - (i - 1)*(sum / months)) * stavka / 12);
+		cout << proc << endl;
 		cout << " ≈жемес€чный платЄж на " << i << " мес€ц: " << (ezh + proc) << " руб.\n";
 		sezh += ezh + proc;
 	}
