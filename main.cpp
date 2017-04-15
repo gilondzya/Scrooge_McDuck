@@ -1,6 +1,5 @@
 #include <iostream>
-#include "vklad.cpp"
-#include "annuit_po_ezhemes.cpp"
+#include "stdafx.h"
 
 using namespace std;
 
