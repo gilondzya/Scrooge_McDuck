@@ -1,0 +1,7 @@
+﻿  Scrooge.cpp
+c:\users\сонечка\documents\github\scrooge_mcduck\scrooge\scrooge\scrooge.cpp(4): warning C4627: #include "stdafx2.h": пропущен при поиске использования предкомпилированного заголовка
+  c:\users\сонечка\documents\github\scrooge_mcduck\scrooge\scrooge\scrooge.cpp(4): note: Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+c:\users\сонечка\documents\github\scrooge_mcduck\scrooge\scrooge\scrooge.cpp(11): error C2556: void main(void): перегруженная функция отличается от "int main(void)" только возвращаемым типом
+  c:\users\сонечка\documents\github\scrooge_mcduck\scrooge\scrooge\source6.cpp(26): note:  см. объявление "main"
+c:\users\сонечка\documents\github\scrooge_mcduck\scrooge\scrooge\scrooge.cpp(11): error C2371: main: переопределение; различные базовые типы
+  c:\users\сонечка\documents\github\scrooge_mcduck\scrooge\scrooge\source6.cpp(26): note:  см. объявление "main"
