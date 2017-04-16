@@ -8,7 +8,8 @@
 #include "Source7.cpp"
 #include "Source8.cpp"
 #include "Source9.cpp"
-
+#include "Source10.cpp"
+#include "Source11.cpp"
 
 float raschet_stavki_po_vkladu_ezhemes(int, float);
 
